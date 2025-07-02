@@ -1,0 +1,15 @@
+
+/* Set the entire page background to baby blue */
+body {
+  background-color: #add8e6; /* Baby blue */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Style all paragraphs with dark brown text */
+p {
+  color: #5C4033; /* Dark brown */
+  font-size: 18px;
+  line-height: 1.6;
+}
